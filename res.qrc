@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>engine.jpg</file>
+        <file>comments.txt</file>
+        <file>worksArchive</file>
+        <file>archiveWork.txt</file>
+        <file>../../../Desktop/esc.png</file>
+        <file>icons/addOrder.png</file>
+        <file>icons/makeEntry.png</file>
+        <file>icons/order.png</file>
+        <file>icons/pressure.png</file>
+        <file>icons/temperatures.png</file>
+        <file>icons/ndw.png</file>
+        <file>icons/schedule.png</file>
+        <file>icons/joe.png</file>
+        <file>../../../Desktop/joe.png</file>
+    </qresource>
+</RCC>

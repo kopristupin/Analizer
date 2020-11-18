@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/addOrder.png</file>
+        <file>icons/makeEntry.png</file>
+        <file>icons/ndw.png</file>
+        <file>icons/order.png</file>
+        <file>icons/pressure.png</file>
+        <file>icons/schedule.png</file>
+        <file>icons/temperatures.png</file>
+        <file>icons/engine.png</file>
+        <file>icons/joe.png</file>
+        <file>icons/leftJoe.png</file>
+        <file>icons/leftNDW.png</file>
+        <file>icons/leftSchedule.png</file>
+        <file>icons/leftTemperatures.png</file>
+        <file>icons/NDWatt.png</file>
+        <file>icons/listOfParts.png</file>
+        <file>icons/fuelCRight.png</file>
+        <file>archiveWork.txt</file>
+        <file>comments.txt</file>
+    </qresource>
+</RCC>
